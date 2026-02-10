@@ -15,6 +15,6 @@ Pick a scenario (CPU spike, instance unreachable, 5xx errors), follow the runboo
 ## Labs linked
 - [aws-monitoring-alerting (CloudWatch + SNS)](https://github.com/Boluendowed/aws-monitoring-alerting)
 - [aws-vpc-connectivity-lab (routes/NAT/SG/NACL)](https://github.com/Boluendowed/aws-vpc-connectivity-lab/tree/main)
-- incident-simulations (break/fix + RCA)
+- [aws-elb-autoscaling-ops](https://github.com/Boluendowed/aws-elb-autoscaling-ops)
 - iam-least-privilege (support-role IAM)
 - ops-automation-scripts (triage tools)
